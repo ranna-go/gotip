@@ -1,1 +1,1 @@
-empty
+go version devel go1.18-6eb58cd Tue Jan 25 22:56:45 2022 +0000 linux/amd64
