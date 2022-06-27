@@ -1,1 +1,1 @@
-go version devel go1.19-416c953 Sun Jun 26 00:26:59 2022 +0000 linux/amd64
+go version devel go1.19-351e0f4 Sun Jun 26 22:12:19 2022 +0000 linux/amd64
