@@ -1,1 +1,1 @@
-go version devel go1.20-cb5534c Wed Nov 16 02:02:26 2022 +0000 linux/amd64
+go version devel go1.20-fee0ab8 Thu Nov 17 03:47:35 2022 +0000 linux/amd64
