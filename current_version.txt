@@ -1,1 +1,1 @@
-go version devel go1.23-aaf8e84 Mon Feb 19 20:51:15 2024 +0000 linux/amd64
+go version devel go1.23-d411231 Wed Feb 21 00:55:03 2024 +0000 linux/amd64
