@@ -1,1 +1,1 @@
-go version go1.25-devel_b4309ec Tue Jul 15 14:51:11 2025 -0700 linux/amd64
+go version go1.25-devel_385000b Wed Jul 16 13:31:59 2025 -0700 linux/amd64
