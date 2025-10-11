@@ -1,1 +1,1 @@
-go version go1.26-devel_c53cb64 Thu Oct 9 18:31:01 2025 -0700 linux/amd64
+go version go1.26-devel_b497a29 Fri Oct 10 18:03:36 2025 -0700 linux/amd64
