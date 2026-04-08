@@ -1,1 +1,1 @@
-go version go1.27-devel_3b5954c6 Mon Apr 6 19:36:35 2026 -0700 linux/amd64
+go version go1.27-devel_e2a9aeae Tue Apr 7 20:38:53 2026 -0700 linux/amd64
