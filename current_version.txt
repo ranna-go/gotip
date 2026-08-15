@@ -1,1 +1,1 @@
-go version go1.28-devel_195964e8 Thu Aug 13 20:30:22 2026 -0700 linux/amd64
+go version go1.28-devel_372c766c Fri Aug 14 21:00:55 2026 -0700 linux/amd64
